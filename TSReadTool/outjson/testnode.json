@@ -1,0 +1,46 @@
+{
+    "allnodes": [
+        {
+            "opennodes": [],
+            "closenodes": [],
+            "ticknodes": [
+                "4ce621ac-e638-46d2-a6a9-e2537a41e8f5"
+            ],
+            "init": 0,
+            "csstate": 0,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "guid": "d5ec5c98-115f-40c8-b6d9-723c6e260bfb",
+            "type": 0
+        },
+        {
+            "f": {
+                "functionName": "testCasteSkill_out",
+                "paramsList": [
+                    "damage"
+                ],
+                "paramsTypes": [
+                    "number"
+                ],
+                "retType": "void",
+                "funcdes": "测试函数"
+            },
+            "fpsnodes": [
+                null
+            ],
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "guid": "4ce621ac-e638-46d2-a6a9-e2537a41e8f5",
+            "type": 8
+        }
+    ],
+    "ticks": [
+        "d5ec5c98-115f-40c8-b6d9-723c6e260bfb"
+    ],
+    "liss": [],
+    "vars": []
+}

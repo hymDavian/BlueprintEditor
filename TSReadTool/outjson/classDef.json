@@ -1,0 +1,136 @@
+[
+    {
+        "className": "FunctionLibrary",
+        "funcs": [
+            {
+                "functionName": "testCasteSkill_out",
+                "paramsList": [
+                    "logic",
+                    "damage"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "number"
+                ],
+                "retType": "void",
+                "funcdes": "测试函数"
+            },
+            {
+                "functionName": "setBPVariable_out",
+                "paramsList": [
+                    "logic",
+                    "key",
+                    "value"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "string",
+                    "any"
+                ],
+                "retType": "void",
+                "funcdes": "设置蓝图变量"
+            },
+            {
+                "functionName": "compareNumber_out",
+                "paramsList": [
+                    "logic",
+                    "a",
+                    "b"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "number",
+                    "number"
+                ],
+                "retType": "boolean",
+                "funcdes": "比较两数大小"
+            },
+            {
+                "functionName": "checkValueIsTrue_out",
+                "paramsList": [
+                    "logic",
+                    "v"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "any"
+                ],
+                "retType": "boolean",
+                "funcdes": "判断某个值是否存在"
+            },
+            {
+                "functionName": "numberAdd_out",
+                "paramsList": [
+                    "logic",
+                    "a",
+                    "b"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "number",
+                    "number"
+                ],
+                "retType": "number",
+                "funcdes": "数字相加"
+            },
+            {
+                "functionName": "numberReduce_out",
+                "paramsList": [
+                    "logic",
+                    "a",
+                    "b"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "number",
+                    "number"
+                ],
+                "retType": "number",
+                "funcdes": "数字相减"
+            },
+            {
+                "functionName": "numberMultiply_out",
+                "paramsList": [
+                    "logic",
+                    "a",
+                    "b"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "number",
+                    "number"
+                ],
+                "retType": "number",
+                "funcdes": "数字相乘"
+            },
+            {
+                "functionName": "numberDivision_out",
+                "paramsList": [
+                    "logic",
+                    "a",
+                    "b"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "number",
+                    "number"
+                ],
+                "retType": "number",
+                "funcdes": "数字相除"
+            },
+            {
+                "functionName": "numberNegation_out",
+                "paramsList": [
+                    "logic",
+                    "a"
+                ],
+                "paramsTypes": [
+                    "BlueprintLogic",
+                    "number"
+                ],
+                "retType": "number",
+                "funcdes": "数字取反"
+            }
+        ]
+    }
+]
